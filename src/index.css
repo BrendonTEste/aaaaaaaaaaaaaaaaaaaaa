@@ -8,6 +8,20 @@
   font-family: 'Poppins', sans-serif;
 }
 
+/* Paleta de cores séria */
+:root {
+  --navy-blue: #1e3a8a;
+  --dark-navy: #1e2a5a;
+  --charcoal: #374151;
+  --dark-charcoal: #1f2937;
+  --silver: #9ca3af;
+  --light-silver: #e5e7eb;
+  --gold: #d97706;
+  --light-gold: #fbbf24;
+  --off-white: #f9fafb;
+  --pure-white: #ffffff;
+}
+
 /* Animações personalizadas */
 @keyframes fade-in-up {
   from {
