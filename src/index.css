@@ -8,18 +8,38 @@
   font-family: 'Poppins', sans-serif;
 }
 
-/* Paleta de cores séria */
+/* Paleta de cores profissional e séria */
 :root {
-  --navy-blue: #1e3a8a;
-  --dark-navy: #1e2a5a;
-  --charcoal: #374151;
-  --dark-charcoal: #1f2937;
-  --silver: #9ca3af;
-  --light-silver: #e5e7eb;
-  --gold: #d97706;
-  --light-gold: #fbbf24;
-  --off-white: #f9fafb;
+  /* Cores principais - Seriedade e confiança */
+  --navy-blue: #0f172a;
+  --dark-navy: #020617;
+  --charcoal: #1e293b;
+  --dark-charcoal: #0f172a;
+  --silver: #64748b;
+  --light-silver: #cbd5e1;
+  --gold: #b45309;
+  --light-gold: #d97706;
+  --off-white: #f8fafc;
   --pure-white: #ffffff;
+  
+  /* Cores de apoio */
+  --slate-900: #0f172a;
+  --slate-800: #1e293b;
+  --slate-700: #334155;
+  --slate-600: #475569;
+  --slate-500: #64748b;
+  --slate-400: #94a3b8;
+  --slate-300: #cbd5e1;
+  --slate-200: #e2e8f0;
+  --slate-100: #f1f5f9;
+  --slate-50: #f8fafc;
+  
+  /* Cores de destaque profissionais */
+  --amber-700: #b45309;
+  --amber-600: #d97706;
+  --amber-500: #f59e0b;
+  --emerald-600: #059669;
+  --emerald-500: #10b981;
 }
 
 /* Animações personalizadas */
