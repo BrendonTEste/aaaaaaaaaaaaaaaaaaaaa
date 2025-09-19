@@ -2,7 +2,9 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
-import Dashboard from './components/Dashboard';
+import ClientDashboard from './components/ClientDashboard';
+import DemoShowcase from './components/DemoShowcase';
+import AdminPanel from './components/AdminPanel';
 import Testimonials from './components/Testimonials';
 import Pricing from './components/Pricing';
 import Contact from './components/Contact';
@@ -14,7 +16,8 @@ function App() {
       <Header />
       <Hero />
       <Services />
-      <Dashboard />
+      <DemoShowcase />
+      <ClientDashboard />
       <Testimonials />
       <Pricing />
       <Contact />
